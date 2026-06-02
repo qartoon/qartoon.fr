@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: theodufour
+title: qartoon
 author: Théo DUFOUR
-email: contact@theodufour.com
+email: contact@qartoon.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Information security engineer with over 4 years experience as a SOC analyst.
-domain: "theodufour.com"
+domain: "qartoon.fr"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://theodufour.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://qartoon.fr" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: tadufour
 
 # Build settings
