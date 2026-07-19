@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Papioutai
+date: 2026-06-07 00:00:03
 categories: [404 CTF 2026, OSINT]
-tags: writeup
+tags: [writeup, 404ctf, osint]
 ---
 
-Here is my solution for the **easy** OSINT challenge **Papioutai** as part of the 2026 edition of the [404CTF](https://404ctf.fr/) held online by the French secret service ([DGSE](https://www.dgse.gouv.fr/en)) and [Telecom SudParis](https://www.telecom-sudparis.eu/en/).
+Here is my solution for the **easy** OSINT challenge **Papioutai** as part of the 2026 edition of the [404 CTF](https://404ctf.fr/) held online by the French secret service ([DGSE](https://www.dgse.gouv.fr/en)) and [Telecom SudParis](https://www.telecom-sudparis.eu/en/).
 
 <br/>
 
@@ -41,5 +42,3 @@ He was born in **Saint-Estèphe** in 1893.
 ```
 404CTF{1912_saint-estephe}
 ```
-
-

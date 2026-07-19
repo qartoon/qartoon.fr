@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Une aiguille dans une Île-de-France
+date: 2026-06-07 00:00:06
 categories: [404 CTF 2026, OSINT]
-tags: writeup
+tags: [writeup, 404ctf, osint]
 ---
 
-Here is my solution for the **hard** OSINT challenge **Une aiguille dans une Île-de-France** as part of the 2026 edition of the [404CTF](https://404ctf.fr/) held online by the French secret service ([DGSE](https://www.dgse.gouv.fr/en)) and [Telecom SudParis](https://www.telecom-sudparis.eu/en/).
+Here is my solution for the **hard** OSINT challenge **Une aiguille dans une Île-de-France** as part of the 2026 edition of the [404 CTF](https://404ctf.fr/) held online by the French secret service ([DGSE](https://www.dgse.gouv.fr/en)) and [Telecom SudParis](https://www.telecom-sudparis.eu/en/).
 
 <br/>
 
