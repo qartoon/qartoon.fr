@@ -31,9 +31,9 @@ I was able to find a LUA plugin on Github at [dagar/mavlink_common.lua](https://
 This last packet type hold valuable data to describe the position of the drone :
 ![Data fields](/assets/img/shutlock-ctf-2026/derive-aerienne/global-position-int.png) 
 
-## Visualize the flight
+## Visualizing the flight
 
-Based on the latitudes and longitudes provided, I wrote a basic Python script that runs over a CSV data export from Wireshark using Pyplot from the Matplotlib package :
+Based on the latitudes and longitudes sent by the drone, I wrote a basic Python script using Pyplot that runs over a CSV data export from Wireshark :
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
