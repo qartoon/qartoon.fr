@@ -6,7 +6,7 @@ order: 4
 
 ### Hi there, I'm **Théo DUFOUR**
 
-I have been working as a SOC analyst for **over 4 years** in energy, retail and industry.
+I have been working as a SOC analyst for **5 years** in energy, retail and industry.
 
 I am currently based in **Vancouver, BC, Canada** and seeking for a new opportunity preferably in **incident response** or **security operations**.
 
@@ -49,12 +49,17 @@ Feel free to reach out to **theo.a.dufour[at]gmail.com** for any professional en
 ## Certificates
 ----
 
-### [CompTIA CySa+](https://www.credly.com/badges/fa01aef2-227b-4904-a7c7-dda143aea9f1) (CS0-003)
+### [ISC² CISSP](https://www.credly.com/badges/47b4aeab-2dfd-46bb-a34b-f7d878e41e1c) (Certified Information Systems Security Professional)
+
+- Date issued: **October 05, 2026**
+- Expires: **October 31, 2029**
+
+### [CompTIA CySA+](https://www.credly.com/badges/fa01aef2-227b-4904-a7c7-dda143aea9f1)
 
 - Date issued: **March 12, 2026**
 - Expires: **March 12, 2029**
 
-### [Splunk CCDA](https://www.credly.com/badges/16aba37a-0b38-49c7-bcf4-c618088d9605) (SPLK-5001)
+### [Splunk CCDA](https://www.credly.com/badges/16aba37a-0b38-49c7-bcf4-c618088d9605)
 
 - Date issued: **January 28, 2026**
 - Expires: **January 28, 2029**
